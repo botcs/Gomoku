@@ -1,0 +1,1065 @@
+# depslib dependency file v1.0
+1428509413 source:c:\users\anya\documents\csabi\gl\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_Frame.h"
+	<functional>
+
+1330553510 c:\users\anya\documents\csabi\gl\graphicsproject\include\graphics.hpp
+	<string>
+
+1428507902 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+
+1428410046 c:\users\anya\documents\csabi\gl\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumControl.h"
+	"w_RadioButton.h"
+
+1428337728 c:\users\anya\documents\csabi\gl\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1428501802 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1428338301 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1428347284 c:\users\anya\documents\csabi\gl\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1428257801 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\main.cpp
+	"graphics.hpp"
+	"w_Frame.h"
+	<iostream>
+	"w_CheckBox.h"
+	"w_Button.h"
+
+1330553510 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\include\graphics.hpp
+	<string>
+
+1428255394 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<vector>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+
+1428249095 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1428254249 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1428257275 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1428257275 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1428254306 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1428255608 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1428255614 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1428256535 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+
+1428256323 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+
+1428257661 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1428257714 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\graphicsproject\w_button.cpp
+	"w_Button.h"
+
+1428503550 c:\users\anya\documents\csabi\gl\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1428412306 c:\users\anya\documents\csabi\gl\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1428449784 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1428501050 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1428450362 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1428411825 c:\users\anya\documents\csabi\gl\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1428281352 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1428281936 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1330553510 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\include\graphics.hpp
+	<string>
+
+1428287846 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1428286998 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1428288943 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1428288955 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<vector>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumControl.h"
+
+1428283073 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1428288926 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1428288928 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1428281771 c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1428285460 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1428289182 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\main.cpp
+	"graphics.hpp"
+	"w_Frame.h"
+	<iostream>
+	"w_CheckBox.h"
+	"w_Button.h"
+	"w_NumControl.h"
+
+1428287846 source:c:\users\cytoplasm\documents\csabi\progbead2\csabi\gl\gl\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1428398008 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_Frame.h"
+	"w_CheckBox.h"
+	"w_Button.h"
+	"w_NumControl.h"
+
+1330553510 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\include\graphics.hpp
+	<string>
+
+1428397307 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumControl.h"
+	"w_RadioButton.h"
+
+1428337728 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1428347284 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1428333047 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1428338153 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1428337268 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1428338010 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1428338200 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1428338301 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1428397948 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+
+1428333668 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1428339041 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1428395036 source:c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1428395036 c:\users\zombi\documents\csabi\gl\gl\graphicsproject\w_radiobutton.h
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	<vector>
+
+1428501969 c:\users\anya\documents\csabi\gl\graphicsproject\w_radiobutton.h
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	<vector>
+
+1428509754 source:c:\users\anya\documents\csabi\gl\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1431159057 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"w_RadioButton.h"
+	"w_Button.h"
+	"w_CheckBox.h"
+	"w_LongText.h"
+	"w_TextControl.h"
+	"w_NumTxtCtrl.h"
+	"w_ListBox.h"
+	<vector>
+	<functional>
+	<queue>
+	"w_App.h"
+
+1330553510 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\include\graphics.hpp
+	<string>
+
+1431084479 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<list>
+	"w_Slider.h"
+	"w_BaseWidget.h"
+
+1431161584 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1431112306 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1430041272 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1428860202 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_radiobutton.h
+	"w_Frame.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1431112277 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1430041272 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1431156580 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1431117741 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1428450362 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1430836902 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1430041272 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1429509545 source:c:\users\csabi\documents\prog\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_Frame.h"
+	<functional>
+
+1330553510 c:\users\csabi\documents\prog\graphicsproject\include\graphics.hpp
+	<string>
+
+1428863301 c:\users\csabi\documents\prog\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+	<time.h>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumControl.h"
+	"w_RadioButton.h"
+
+1429537143 c:\users\csabi\documents\prog\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1428860189 c:\users\csabi\documents\prog\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1428503550 c:\users\csabi\documents\prog\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1428412306 c:\users\csabi\documents\prog\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1428860202 c:\users\csabi\documents\prog\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1429509239 c:\users\csabi\documents\prog\graphicsproject\w_radiobutton.h
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1429481171 c:\users\csabi\documents\prog\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1428501802 source:c:\users\csabi\documents\prog\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1428863104 source:c:\users\csabi\documents\prog\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1428338301 source:c:\users\csabi\documents\prog\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1428864958 source:c:\users\csabi\documents\prog\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+
+1428450362 source:c:\users\csabi\documents\prog\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1428501050 source:c:\users\csabi\documents\prog\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1429509273 source:c:\users\csabi\documents\prog\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1429508402 source:c:\users\csabi\documents\prog\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1430041272 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1430046450 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1429021698 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\multiframe.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_Frame.h"
+	<functional>
+
+1430114948 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_longtext.cpp
+	"w_LongText.h"
+	<iostream>
+
+1430112583 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_longtext.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	"w_Frame.h"
+
+1430041272 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_window.cpp
+	"w_Window.h"
+
+1429913971 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_window.h
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+	<time.h>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumTxtCtrl.h"
+	"w_RadioButton.h"
+
+1431447184 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"w_RadioButton.h"
+	"w_Button.h"
+	"w_CheckBox.h"
+	"w_LongText.h"
+	"w_TextControl.h"
+	"w_NumTxtCtrl.h"
+	"w_ListBox.h"
+	<functional>
+	<queue>
+	<cstdlib>
+	<ctime>
+	<map>
+	"w_App.h"
+
+1330553510 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\include\graphics.hpp
+	<string>
+
+1431161584 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1431084479 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<list>
+	"w_Slider.h"
+	"w_BaseWidget.h"
+
+1430041272 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1431112306 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1431112277 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1430041272 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1430041272 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1431156580 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1431117741 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1428450362 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1428860202 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1430041272 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1430836902 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1430041272 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_radiobutton.h
+	"w_Frame.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1430046450 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1430041272 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1429021698 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\multiframe.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_Frame.h"
+	<functional>
+
+1430114948 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_longtext.cpp
+	"w_LongText.h"
+	<iostream>
+
+1430112583 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_longtext.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	"w_Frame.h"
+
+1430041272 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_window.cpp
+	"w_Window.h"
+
+1429913971 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_window.h
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+	<time.h>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumTxtCtrl.h"
+	"w_RadioButton.h"
+
+1429873839 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"w_RadioButton.h"
+	"w_Button.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	<vector>
+	<functional>
+
+1330553510 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\include\graphics.hpp
+	<string>
+
+1429557345 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1429632755 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<list>
+	"w_Slider.h"
+	"w_BaseWidget.h"
+
+1429558964 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1429630034 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_radiobutton.h
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1428860189 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1428412306 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1429631141 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1429557324 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1429555428 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1429555430 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1429633600 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1429557356 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_longtext.cpp
+	"w_LongText.h"
+
+1429557377 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_longtext.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+	<string>
+	<sstream>
+	<list>
+
+1428450362 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_numcontrol.cpp
+	"w_NumControl.h"
+	<sstream>
+
+1428860202 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_numcontrol.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1429630034 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1429508402 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1428501050 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1429434977 source:c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_window.cpp
+	"w_Window.h"
+
+1429434979 c:\users\botcs.argon.000\documents\bevprogii\widgets\graphicsproject\w_window.h
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<fstream>
+	<time.h>
+	"w_BaseWidget.h"
+	"w_CheckBox.h"
+	"w_TextControl.h"
+	"w_Button.h"
+	"w_NumControl.h"
+	"w_RadioButton.h"
+
+1430836902 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_numtxtctrl.cpp
+	"w_NumTxtCtrl.h"
+	<iostream>
+	<sstream>
+
+1430233652 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_numtxtctrl.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1430040785 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_text.h
+	"w_BaseWidget.h"
+
+1430114623 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"w_RadioButton.h"
+	"w_Button.h"
+	"w_CheckBox.h"
+	"w_LongText.h"
+	"w_TextControl.h"
+	"w_NumTxtCtrl.h"
+	<vector>
+	<functional>
+
+1330553510 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\include\graphics.hpp
+	<string>
+
+1430114391 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1430228892 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<list>
+	"w_Slider.h"
+	"w_BaseWidget.h"
+
+1430041272 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1430041272 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_radiobutton.h
+	"w_Frame.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1430041272 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1430041272 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1430112583 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_longtext.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	"w_Frame.h"
+
+1430041272 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1430069920 c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_numtxtctrl.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1430114502 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1430041272 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1430041272 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1430066819 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1430113937 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_numtxtctrl.cpp
+	"w_NumTxtCtrl.h"
+	<sstream>
+
+1430041272 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1430046450 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1430041272 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1430114948 source:c:\users\botcs\documents\bevprogii\w0427\widgets\graphicsproject\w_longtext.cpp
+	"w_LongText.h"
+	<iostream>
+
+1430836902 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_numtxtctrl.cpp
+	"w_NumTxtCtrl.h"
+	<iostream>
+	<sstream>
+
+1430233652 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_numtxtctrl.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1431158081 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_listbox.h
+	<vector>
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"graphics.hpp"
+
+1431447491 source:c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_app.cpp
+	"w_BaseWidget.h"
+	"w_App.h"
+
+1431445821 c:\users\botcs\documents\bevprogii\widgets\graphicsproject\w_app.h
+	<memory>
+	<list>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+
+1431158457 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_app.cpp
+	"w_BaseWidget.h"
+	"w_App.h"
+
+1431116828 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_app.h
+	<memory>
+	<list>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+
+1431158081 c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_listbox.h
+	<vector>
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"graphics.hpp"
+
+1431159142 source:c:\users\csabi\documents\bevprogii\widgets\graphicsproject\w_listbox.cpp
+	"w_ListBox.h"
+
+1431447184 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\main.cpp
+	<iostream>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"w_RadioButton.h"
+	"w_Button.h"
+	"w_CheckBox.h"
+	"w_LongText.h"
+	"w_TextControl.h"
+	"w_NumTxtCtrl.h"
+	"w_ListBox.h"
+	<functional>
+	<queue>
+	<cstdlib>
+	<ctime>
+	<map>
+	"w_App.h"
+
+1330553510 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\include\graphics.hpp
+	<string>
+
+1431161584 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1431084479 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<list>
+	"w_Slider.h"
+	"w_BaseWidget.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_radiobutton.h
+	"w_Frame.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1431112306 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1430112583 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_longtext.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	"w_Frame.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1430233652 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_numtxtctrl.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1431158081 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_listbox.h
+	<vector>
+	"w_BaseWidget.h"
+	"w_Frame.h"
+	"graphics.hpp"
+
+1431445821 c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_app.h
+	<memory>
+	<list>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+
+1431447491 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_app.cpp
+	"w_BaseWidget.h"
+	"w_App.h"
+
+1431112277 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1430041272 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1431156580 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1431117741 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1430114948 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_longtext.cpp
+	"w_LongText.h"
+	<iostream>
+
+1430836902 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_numtxtctrl.cpp
+	"w_NumTxtCtrl.h"
+	<iostream>
+	<sstream>
+
+1430836902 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1430046450 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1430041272 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1431112277 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_basewidget.cpp
+	"w_BaseWidget.h"
+
+1431161584 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_basewidget.h
+	"graphics.hpp"
+	<string>
+
+1330553510 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\include\graphics.hpp
+	<string>
+
+1430041272 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_button.cpp
+	"w_Button.h"
+	<iostream>
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_button.h
+	"w_BaseWidget.h"
+	<functional>
+
+1431156580 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_checkbox.cpp
+	"w_CheckBox.h"
+
+1431112306 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_checkbox.h
+	"w_BaseWidget.h"
+	<iostream>
+
+1431117741 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_frame.cpp
+	"w_Frame.h"
+	<iostream>
+
+1431084479 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_frame.h
+	"graphics.hpp"
+	<list>
+	"w_Slider.h"
+	"w_BaseWidget.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_slider.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+
+1430114948 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_longtext.cpp
+	"w_LongText.h"
+	<iostream>
+
+1430112583 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_longtext.h
+	"w_BaseWidget.h"
+	"graphics.hpp"
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	"w_Frame.h"
+
+1430836902 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_numtxtctrl.cpp
+	"w_NumTxtCtrl.h"
+	<iostream>
+	<sstream>
+
+1430233652 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_numtxtctrl.h
+	"w_BaseWidget.h"
+	"w_Button.h"
+	"w_TextControl.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_textcontrol.h
+	"w_BaseWidget.h"
+
+1430836902 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_radiobutton.cpp
+	"w_RadioButton.h"
+
+1430041272 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_radiobutton.h
+	"w_Frame.h"
+	"w_CheckBox.h"
+	"w_Slider.h"
+	<vector>
+
+1430046450 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_slider.cpp
+	"w_Slider.h"
+	<iostream>
+
+1430041272 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_textcontrol.cpp
+	"w_TextControl.h"
+
+1432557310 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\main.cpp
+	<iostream>
+	<functional>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<map>
+	"w_App.h"
+	"GameMaster.h"
+
+1432548017 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_app.h
+	<memory>
+	<list>
+	"graphics.hpp"
+	"w_BaseWidget.h"
+	"w_Frame.h"
+
+1432548003 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_app.cpp
+	"w_BaseWidget.h"
+	"w_App.h"
+
+1432557454 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\gamemaster.h
+	<vector>
+	<iostream>
+
+1432557405 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\gamemaster.cpp
+	"GameMaster.h"
+
