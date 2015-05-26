@@ -13,13 +13,12 @@ w_Frame::w_Frame(const w_Widget base) : w_Control(base), hor_slider(0), ver_slid
     in_w=W;
     in_h=H;
 
-
     m_frame.open(in_w, in_h);
 }
 
 w_Frame::~w_Frame()
 {
-    for(w_Widget * w : m_widgets) delete w;
+    for(w_Widget* w: m_widgets) delete w;
     delete hor_slider;
     delete ver_slider;
 }

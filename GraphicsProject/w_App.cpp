@@ -1,5 +1,6 @@
 #include "w_BaseWidget.h"
 #include "w_App.h"
+#include "w_Button.h"
 #define clrscr move_to(0,0)<<color(defColor)<<box(XX-1,YY-1)
 
 w_App::w_App(const int width, const int height) : XX(width), YY(height), _cursor(0)
@@ -12,17 +13,17 @@ w_App::w_App(const int width, const int height) : XX(width), YY(height), _cursor
 int w_App::run()
 {
     gout.open(XX, YY, false);
-    genv::event ev;
     genv::gin.timer(40);
     while(gin >> ev)
     {
         gout<<clrscr;
-        //gout<<color(white)<<box_to(10,10);
+        catch_before();
         if(ev.type!=ev_timer) renderer->handle_event(ev);
         else{
             renderer->draw(gout);
             gout<<refresh;
         }
+        catch_after();
 
     }
     return 0;
@@ -56,8 +57,8 @@ w_App&  operator << (w_App& lay_out, w_Widget* W)
     }
 
     if(lay_out.lay_op==w_App::left)W->align(lay_out._cursor, lay_out.hor_space());
-    if(lay_out.lay_op==w_App::endl) W->align(lay_out._begin, lay_out.ver_space(), w_Widget::below),  lay_out._begin=W, lay_out.lay_op=w_App::left;
-    if(lay_out.lay_op==w_App::downstream)W->align(lay_out._cursor, lay_out.ver_space(), w_Widget::below);
+    if(lay_out.lay_op==w_App::endl) W->align(lay_out._begin, lay_out.ver_space(), below),  lay_out._begin=W, lay_out.lay_op=w_App::left;
+    if(lay_out.lay_op==w_App::downstream)W->align(lay_out._cursor, lay_out.ver_space(), below);
 
     lay_out.push(W);
 

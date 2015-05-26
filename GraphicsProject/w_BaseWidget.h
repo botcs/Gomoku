@@ -12,6 +12,14 @@ using namespace genv;
 
 class w_App;
 
+enum align_directions
+{
+    above,
+    below,
+    before,
+    after
+};
+
 class w_Widget
 {
 private:
@@ -23,13 +31,7 @@ protected:
     virtual void drawBase(canvas& c);
 public:
     bool IsActive;
-    enum
-    {
-        above,
-        below,
-        before,
-        after
-    };
+
     virtual void align (w_Widget* align_to, int distance, int direction=after);
 
     bool adopt(w_App * parent);
@@ -51,8 +53,10 @@ public:
     w_Widget(const std::string l, const int x, const int y, const int w, const int h) :
         X(x), Y(y), W(w), H(h), m_label(l), IsActive(false) , ID(wCounter){++wCounter;}
 
+    w_Widget():X(0), Y(0), W(0), H(0), ID(wCounter){++wCounter;}
 
     //for w_App
+
     w_Widget(w_App *parent, const int x, const int y, const int w, const int h) :
         m_parent(parent), X(x), Y(y), W(w), H(h), IsActive(false), ID(wCounter){++wCounter;}
 

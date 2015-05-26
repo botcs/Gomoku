@@ -5,31 +5,36 @@
 
 using namespace std;
 
-class GM
-{    vector<vector<int> > _table;
-    enum
-    {
-        Empty=-1,
-        Blue,
-        Red,
-    } chip;
+
+enum chip_types
+{
+    Empty=-1,
+    Blue,
+    Red
+};
+
+struct GM
+{
+
+    vector<vector<chip_types> > _table;
+    size_t _cursor;
+    chip_types chip;
 
 
-    int _cursor;
-
-public:
     enum
     {
         none,
         tie,
         blue_win,
         red_win,
+        pause,
         column_filled
     } interrupt;
 
-    GM(int rows, int cols):_table(vector<vector<int> > (rows, vector<int>(cols, Empty))), chip(Blue), _cursor(0){};
+    GM(int rows, int cols):_table(vector<vector<chip_types> > (rows, vector<chip_types>(cols, Empty))),_cursor(0), chip(Blue), interrupt(none){};
     void set_cursor(size_t c);
-    void drop_chip();
+    int  get_cursor(){return _cursor;}
+    int  drop_chip();
     void check_win();
     void print();
 };

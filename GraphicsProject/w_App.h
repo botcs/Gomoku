@@ -6,11 +6,16 @@
 #include "graphics.hpp"
 #include "w_BaseWidget.h"
 #include "w_Frame.h"
+#include <functional>
 
 class w_App
 {
+protected:
     w_Frame* renderer;
     const int XX, YY;
+    genv::event ev;
+    std::function<void()> catch_before = [](){return;};
+    std::function<void()> catch_after  = [](){return;};
 public:
     virtual int hor_space() const {return 20;}
     virtual int ver_space() const {return 20;}

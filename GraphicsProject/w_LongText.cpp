@@ -95,7 +95,7 @@ w_LongText::w_LongText(const w_Widget base, const std::string file, w_LongText::
                 for(int i=1; i<wil.size(); i++)
                 {
                     act_t = new w_Text(wil[i], 0, line_count*(gout.cascent()+gout.cdescent()));
-                    act_t->align(prev_t, space_px, w_Widget::after);
+                    act_t->align(prev_t, space_px, after);
                     renderer->push(act_t);
                     prev_t=act_t;
                     //std::cout<<wil[i-1].size()+i<<'\n';

@@ -32,7 +32,7 @@ void w_Widget::align (w_Widget* _to, int _dist, int _dir)
     if(_dir==above)
     {
         X=_to->X;
-        Y=_to->Y-_dist;
+        Y=_to->Y-_dist-H;
     }
     if(_dir==below)
     {

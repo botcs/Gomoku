@@ -21,7 +21,7 @@ protected:
     void resize_frame();
 
 public:
-
+    event calib_ev;
     int inner_h() const {return in_h;}
     int inner_w() const {return in_w;}
 

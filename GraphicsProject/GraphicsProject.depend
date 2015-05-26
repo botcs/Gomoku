@@ -953,10 +953,10 @@
 1430041272 source:c:\users\csabi\documents\bevprogii\potyogtato\game\widgets\graphicsproject\w_textcontrol.cpp
 	"w_TextControl.h"
 
-1431112277 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_basewidget.cpp
+1432566889 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_basewidget.cpp
 	"w_BaseWidget.h"
 
-1431161584 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_basewidget.h
+1432566531 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_basewidget.h
 	"graphics.hpp"
 	<string>
 
@@ -978,11 +978,11 @@
 	"w_BaseWidget.h"
 	<iostream>
 
-1431117741 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_frame.cpp
+1432584801 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_frame.cpp
 	"w_Frame.h"
 	<iostream>
 
-1431084479 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_frame.h
+1432594599 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_frame.h
 	"graphics.hpp"
 	<list>
 	"w_Slider.h"
@@ -992,7 +992,7 @@
 	"w_BaseWidget.h"
 	"graphics.hpp"
 
-1430114948 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_longtext.cpp
+1432566568 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_longtext.cpp
 	"w_LongText.h"
 	<iostream>
 
@@ -1035,31 +1035,35 @@
 1430041272 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_textcontrol.cpp
 	"w_TextControl.h"
 
-1432557310 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\main.cpp
+1432598012 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\main.cpp
 	<iostream>
 	<functional>
 	<vector>
 	<cstdlib>
 	<ctime>
 	<map>
-	"w_App.h"
 	"GameMaster.h"
+	"w_App.h"
+	"w_BaseWidget.h"
+	"w_Button.h"
 
-1432548017 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_app.h
+1432594717 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_app.h
 	<memory>
 	<list>
 	"graphics.hpp"
 	"w_BaseWidget.h"
 	"w_Frame.h"
+	<functional>
 
-1432548003 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_app.cpp
+1432567354 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\w_app.cpp
 	"w_BaseWidget.h"
 	"w_App.h"
+	"w_Button.h"
 
-1432557454 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\gamemaster.h
+1432597866 c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\gamemaster.h
 	<vector>
 	<iostream>
 
-1432557405 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\gamemaster.cpp
+1432598349 source:c:\users\csabi\documents\bevprogii\potyogtato\widgets\graphicsproject\gamemaster.cpp
 	"GameMaster.h"
 
