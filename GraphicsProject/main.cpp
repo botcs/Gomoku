@@ -50,7 +50,7 @@ struct GUI : private w_App
     vector<w_Frame *> bars;
     vector<vector<chip *> > table;
     arrow* arr;
-    const int R, C;
+    int R, C;
 
     w_Text* res=0;
 
@@ -108,8 +108,9 @@ struct GUI : private w_App
                 if(col->IsMouseOver(ev.pos_x, ev.pos_y)) arr->align(col, 10, above);
             }
 
-            if ((ev.button==btn_left || ev.button==btn_right || ev.keycode==key_enter || ev.keycode==key_space) && !game->interrupt)
+            if (ev.button==btn_left || ev.button==btn_right || ev.keycode==key_enter || ev.keycode==key_space)
             {
+                if(game->interrupt && game->interrupt!=GM::column_filled) return;
                 int col;
                 for(col=0; col<C; col++) if(bars[col]->IsActive) break;
 
