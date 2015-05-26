@@ -159,6 +159,7 @@ struct GUI : private w_App
 
 int main()
 {
+    GUI app(7,6);
     app.init();
     return 0;
 }
